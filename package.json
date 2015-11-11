@@ -18,7 +18,7 @@
   "dependencies": {
     "broccoli-filter": "^1.2.0",
     "minimatch": "^2.0.0",
-    "applause": "1.1.0"
+    "applause": "^1.2.2"
   },
   "devDependencies": {
     "mocha": "^2.2.0",
